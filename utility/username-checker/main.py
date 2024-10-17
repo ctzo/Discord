@@ -510,7 +510,7 @@ start_time = time()
 def TITLE_SPINNER():
     Logger.log("Started title spinner thread")
     """Fix for windows 11 console"""
-    TITLE = ["e-z.bio/0.o", "Avaible : {WORKS}", "Taken : {TAKEN}", "Requests : {REQUESTS}", "RPS : {RPS}", "Elapsed : {ELAPSED}s"]
+    TITLE = ["e-z.bio/0.o", "Available : {WORKS}", "Taken : {TAKEN}", "Requests : {REQUESTS}", "RPS : {RPS}", "Elapsed : {ELAPSED}s"]
     while True:
         for i in TITLE:
             edited = i          
