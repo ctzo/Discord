@@ -351,7 +351,7 @@ ASCII = f"""
 
                     {r}@{x}  Discord User Checker        {r}@{x}
                     {r}@{x}  github.com/ctzo             {r}@{x}
-                    {r}@{x}  e-z.bio/jpn                 {r}@{x}
+                    {r}@{x}  e-z.bio/.16                 {r}@{x}
                     {r}@{x}  Version: {VERSION}              {r}@{x}
         """
 clear()
